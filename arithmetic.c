@@ -2,7 +2,7 @@
 *This C program performs the four basic arithmetic operations
 *such as addition, subtraction, multiplication, and division
 *
-*Author: Biranchi Kulesika
+*Author: Jyoti
 *Date: 2 Sep, 2023
 *Assignment No.: 01
 *Question No.: 01
